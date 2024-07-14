@@ -1,1 +1,5 @@
-# CodeAlpha_Personal_Portfolio
+# CodeAlpha_Personal_Portfolio![Screenshot 2024-07-14 180431](https://github.com/user-attachments/assets/1d6b05a1-c1b2-4a12-8332-f3c0ef21f8ff)
+![Screenshot 2024-07-14 180449](https://github.com/user-attachments/assets/64412f91-02ee-4329-9d9d-ab6ba968245b)
+![Screenshot 2024-07-14 180510](https://github.com/user-attachments/assets/4ba18665-df99-4f16-8c53-beca9826ac22)
+![Screenshot 2024-07-14 180524](https://github.com/user-attachments/assets/19a76b3a-0ce9-40b6-992e-146c3fd07503)
+![Screenshot 2024-07-14 180537](https://github.com/user-attachments/assets/cdec8dba-440b-46e9-a825-dca9f52a35b9)
